@@ -16,5 +16,5 @@ elif (predefined_username == username) and (predefined_password != password):
     print("Username is correct but password is incorrect.")    
 
 else: 
-    print(" username is incorrect.")
+    print("username is incorrect.")
 
